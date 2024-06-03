@@ -1,0 +1,5 @@
+train: ./data/train/images
+val: ./data/val/images
+
+nc: 17  # Anzahl der Klassen
+names: ["Reh", "Feldmaus","Feldhase","Fledermaus","Fuchs","Waschbär","Wildschwein","Biber","Feldlerche","Feldsperling","Fischotter","Graureiher","Hauskatze","Hermelin","Heuschrecke","Marder","Waldmaus"]  # Namen der Klassen
